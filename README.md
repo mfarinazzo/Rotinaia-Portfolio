@@ -27,20 +27,38 @@ Abaixo estão demonstrações das principais capacidades do sistema em sua vers�
 ### 1. Captura de Contexto por Voz
 Nesta demonstração, o foco é a capacidade da IA de transformar linguagem natural não estruturada em dados estruturados (JSON) que o aplicativo pode utilizar.
 
-> **[Espaço para Vídeo 1]**
+<video src="1.mp4" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 > *Descrição do vídeo:* O usuário abre o aplicativo e toca no botão de microfone. Ele dita um comando complexo envolvendo tempo e dinheiro, por exemplo: "Agende uma reunião com o cliente para amanhã às 14h e lance uma despesa de 50 reais de Uber para chegar lá". O vídeo mostra o processamento e a criação imediata tanto do evento na agenda quanto da transação financeira.
 
 ### 2. Reagendamento Inteligente
 Aqui demonstramos a proatividade do sistema. Ao invés de mover arrastar blocos de tempo manualmente, o usuário apenas informa o imprevisto.
 
-> **[Espaço para Vídeo 2]**
+<video src="2.mp4" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 > *Descrição do vídeo:* A tela mostra uma lista de tarefas agendadas para a manhã. O usuário ativa o comando de voz e diz: "Tive um imprevisto e vou atrasar tudo em uma hora". O vídeo mostra a IA recalculando os horários de todas as tarefas subsequentes automaticamente, preservando a ordem e a duração.
 
 ### 3. Fluxo de Refinamento (Feedback Loop)
 As IAs generativas podem cometer erros de interpretação. O Rotinaia implementa um fluxo de refinamento que permite ao usuário corrigir a IA de forma conversacional, sem descartar todo o trabalho feito.
 
-> **[Espaço para Vídeo 3]**
+<video src="3.mp4" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 > *Descrição do vídeo:* A IA apresenta uma proposta de agendamento que não está exatamente como o usuário queria (ex: marcou para o dia errado). O usuário clica em "Refinar" e diz apenas: "Não, isso é para sexta-feira, não para hoje". O vídeo mostra a IA ajustando apenas a data, mantendo os outros detalhes corretos.
+
+### 4. Visão Geral e Funcionalidades Adicionais
+Uma demonstração abrangente de outras capacidades do sistema que complementam a experiência de gestão proativa.
+
+<video src="4.mp4" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
+> *Descrição do vídeo:* Visão geral de funcionalidades auxiliares e navegação no aplicativo, demonstrando a fluidez da interface e outros recursos de produtividade.
 
 ## Arquitetura e Tecnologias
 
