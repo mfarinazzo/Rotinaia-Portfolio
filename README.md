@@ -27,6 +27,10 @@ Abaixo estão demonstrações das principais capacidades do sistema em sua vers�
 ### 1. Captura de Contexto por Voz
 Nesta demonstração, o foco é a capacidade da IA de transformar linguagem natural não estruturada em dados estruturados (JSON) que o aplicativo pode utilizar.
 
+
+https://github.com/user-attachments/assets/c96aaacc-89e9-4934-9cd7-9bb911b2e62a
+
+
 <video src="1.mp4" controls="controls" style="max-width: 100%;">
   <a href="1.mp4">Assista ao vídeo 1</a>
 </video>
@@ -37,6 +41,10 @@ Nesta demonstração, o foco é a capacidade da IA de transformar linguagem natu
 
 ### 2. Reagendamento Inteligente
 Aqui demonstramos a proatividade do sistema. Ao invés de mover arrastar blocos de tempo manualmente, o usuário apenas informa o imprevisto.
+
+
+https://github.com/user-attachments/assets/e54ad9d7-ff42-4c92-bd21-999d54e5e8e1
+
 
 <video src="2.mp4" controls="controls" style="max-width: 100%;">
   <a href="2.mp4">Assista ao vídeo 2</a>
@@ -49,6 +57,10 @@ Aqui demonstramos a proatividade do sistema. Ao invés de mover arrastar blocos 
 ### 3. Fluxo de Refinamento (Feedback Loop)
 As IAs generativas podem cometer erros de interpretação. O Rotinaia implementa um fluxo de refinamento que permite ao usuário corrigir a IA de forma conversacional, sem descartar todo o trabalho feito.
 
+
+https://github.com/user-attachments/assets/5e930e56-aa0c-4bfc-a03c-548045b1108f
+
+
 <video src="3.mp4" controls="controls" style="max-width: 100%;">
   <a href="3.mp4">Assista ao vídeo 3</a>
 </video>
@@ -59,6 +71,10 @@ As IAs generativas podem cometer erros de interpretação. O Rotinaia implementa
 
 ### 4. Visão Geral e Funcionalidades Adicionais
 Uma demonstração abrangente de outras capacidades do sistema que complementam a experiência de gestão proativa.
+
+
+https://github.com/user-attachments/assets/bac5330f-ad50-4245-b783-5689232c1ca5
+
 
 <video src="4.mp4" controls="controls" style="max-width: 100%;">
   <a href="4.mp4">Assista ao vídeo 4</a>
